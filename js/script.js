@@ -3,7 +3,7 @@
 =========================== */
 
 const typingText = [
-    "Front-End Developer",
+    "Full Stack Developer",
     "Flutter Developer",
     "Laravel Developer",
     "UI / UX Enthusiast"
